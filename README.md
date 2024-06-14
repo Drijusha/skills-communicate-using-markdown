@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+# Task 3
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -33,7 +33,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-### Example
+### *Example*
 
 ```md
 # This is an `<h1>` header, which is the largest
@@ -43,7 +43,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ###### This is an `<h6>` header, which is the smallest
 ```
 
-#### How it looks
+### *How it looks*
 
 # This is an `<h1>` header, which is the largest
 
@@ -79,3 +79,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+Write down it as task 3,changed 'how it looks' text from h4 to h3 and changed the text format of example and how it looks in to italics
