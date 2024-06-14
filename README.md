@@ -21,7 +21,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Encourage users to open new tabs for steps!
 -->
 
-# Step 1: Add headers
+## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
@@ -43,7 +43,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ###### This is an `<h6>` header, which is the smallest
 ```
 
-### How it looks
+#### How it looks
 
 # This is an `<h1>` header, which is the largest
 
@@ -79,4 +79,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
-changed step 1 in to h1,changed 'how it looks' text from h4 to h3 .
+
