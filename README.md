@@ -79,4 +79,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
-Write down it as task 3,changed 'how it looks' text from h4 to h3 and changed the text format of example and how it looks in to italics
+changed step 1 in to h1,changed 'how it looks' text from h4 to h3 .
